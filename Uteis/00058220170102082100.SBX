@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<mensagemSIB xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.ans.gov.br/padroes/sib/schemas http://www.ans.gov.br/padroes/sib/schemas/sib.xsd">
+  <cabecalho>
+    <identificacaoTransacao>
+      <tipoTransacao>Atualizacao SIB</tipoTransacao>
+      <sequencialTransacao>2318</sequencialTransacao>
+      <dataHoraRegistroTransacao>2017-01-02T08:21:00</dataHoraRegistroTransacao>
+    </identificacaoTransacao>
+    <origem>
+      <registroANS>000582</registroANS>
+    </origem>
+    <destino>
+      <cnpj>03589068000146</cnpj>
+    </destino>
+    <versaoPadrao>1.1</versaoPadrao>
+    <identificacaoSoftwareGerador>
+      <nomeAplicativo>Porto.Saude.Ans.Business</nomeAplicativo>
+      <versaoAplicativo>0.0.6121.17766</versaoAplicativo>
+      <fabricanteAplicativo>Benner Tecnologia e Sistemas de Saude</fabricanteAplicativo>
+    </identificacaoSoftwareGerador>
+  </cabecalho>
+  <mensagem>
+    <operadoraParaANS>
+      <beneficiarios>
+	    <retificacao>
+          <cco>041036536701</cco>
+          <identificacao>
+            <cpf>14725294802</cpf>
+          </identificacao>
+		  <endereco/>						
+		  <vinculo/>
+        </retificacao>
+	    <retificacao>
+          <cco>041036546403</cco>
+		  <identificacao/>
+		  <endereco/>
+          <vinculo>
+            <dataContratacao>2016-10-01</dataContratacao>
+          </vinculo>
+        </retificacao>		
+	  </beneficiarios>
+    </operadoraParaANS>
+  </mensagem>
+  <epilogo>
+    <hash>0097C383282A732D97E50D74AC271A70</hash>
+  </epilogo>
+</mensagemSIB>

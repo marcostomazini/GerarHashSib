@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<mensagemSIB xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.ans.gov.br/padroes/sib/schemas http://www.ans.gov.br/padroes/sib/schemas/sib.xsd">
+  <cabecalho>
+    <identificacaoTransacao>
+      <tipoTransacao>Atualizacao SIB</tipoTransacao>
+      <sequencialTransacao>0001</sequencialTransacao>
+      <dataHoraRegistroTransacao>2017-02-17T13:44:39</dataHoraRegistroTransacao>
+    </identificacaoTransacao>
+    <origem>
+      <registroANS>312126</registroANS>
+    </origem>
+    <destino>
+      <cnpj>03589068000146</cnpj>
+    </destino>
+    <versaoPadrao>1.1</versaoPadrao>
+    <identificacaoSoftwareGerador>
+      <nomeAplicativo>Porto.Saude.Ans.Business</nomeAplicativo>
+      <versaoAplicativo>0.0.6121.17766</versaoAplicativo>
+      <fabricanteAplicativo>Benner Tecnologia e Sistemas de Saude</fabricanteAplicativo>
+    </identificacaoSoftwareGerador>
+  </cabecalho>
+  <mensagem>
+    <operadoraParaANS>
+      <beneficiarios>
+        <retificacao>
+          <cco>034302178900</cco>
+          <identificacao />
+          <endereco />
+          <vinculo>
+            <dataContratacao>2015-12-01</dataContratacao>
+            <numeroPlanoANS>462163108</numeroPlanoANS>
+          </vinculo>
+        </retificacao>
+        <retificacao>
+          <cco>033989050604</cco>
+          <identificacao />
+          <endereco />
+          <vinculo>
+            <dataContratacao>2015-12-01</dataContratacao>
+            <numeroPlanoANS>462163108</numeroPlanoANS>
+          </vinculo>
+        </retificacao>
+        <retificacao>
+          <cco>040562113209</cco>
+          <identificacao />
+          <endereco />
+          <vinculo>
+            <dataContratacao>2013-11-01</dataContratacao>
+            <numeroPlanoANS>462163108</numeroPlanoANS>
+          </vinculo>
+        </retificacao>
+        <retificacao>
+          <cco>030776417102</cco>
+          <identificacao />
+          <endereco />
+          <vinculo>
+            <dataContratacao>2016-04-01</dataContratacao>
+            <numeroPlanoANS>462164106</numeroPlanoANS>
+          </vinculo>
+        </retificacao>
+        <retificacao>
+          <cco>030776417200</cco>
+          <identificacao />
+          <endereco />
+          <vinculo>
+            <dataContratacao>2016-04-01</dataContratacao>
+            <numeroPlanoANS>462164106</numeroPlanoANS>
+          </vinculo>
+        </retificacao>
+        <retificacao>
+          <cco>034302184809</cco>
+          <identificacao />
+          <endereco />
+          <vinculo>
+            <dataContratacao>2015-04-01</dataContratacao>
+            <numeroPlanoANS>462167101</numeroPlanoANS>
+          </vinculo>
+        </retificacao>
+        <retificacao>
+          <cco>034302202200</cco>
+          <identificacao />
+          <endereco />
+          <vinculo>
+            <dataContratacao>2016-04-01</dataContratacao>
+            <numeroPlanoANS>462164106</numeroPlanoANS>
+          </vinculo>
+        </retificacao>
+        <retificacao>
+          <cco>034302208802</cco>
+          <identificacao />
+          <endereco />
+          <vinculo>
+            <dataContratacao>2016-08-01</dataContratacao>
+            <numeroPlanoANS>462163108</numeroPlanoANS>
+          </vinculo>
+        </retificacao>
+        <retificacao>
+          <cco>034302213900</cco>
+          <identificacao />
+          <endereco />
+          <vinculo>
+            <dataContratacao>2016-07-01</dataContratacao>
+            <numeroPlanoANS>462164106</numeroPlanoANS>
+          </vinculo>
+        </retificacao>
+        <retificacao>
+          <cco>040562115105</cco>
+          <identificacao />
+          <endereco />
+          <vinculo>
+            <dataContratacao>2014-12-01</dataContratacao>
+            <numeroPlanoANS>462164106</numeroPlanoANS>
+          </vinculo>
+        </retificacao>
+        <retificacao>
+          <cco>040562115203</cco>
+          <identificacao />
+          <endereco />
+          <vinculo>
+            <dataContratacao>2014-12-01</dataContratacao>
+            <numeroPlanoANS>462164106</numeroPlanoANS>
+          </vinculo>
+        </retificacao>
+        <retificacao>
+          <cco>040562115007</cco>
+          <identificacao />
+          <endereco />
+          <vinculo>
+            <dataContratacao>2014-12-01</dataContratacao>
+            <numeroPlanoANS>462164106</numeroPlanoANS>
+          </vinculo>
+        </retificacao>
+        <retificacao>
+          <cco>030776149404</cco>
+          <identificacao />
+          <endereco />
+          <vinculo>
+            <dataContratacao>2015-05-02</dataContratacao>
+            <numeroPlanoANS>462163108</numeroPlanoANS>
+          </vinculo>
+        </retificacao>
+        <retificacao>
+          <cco>030776144800</cco>
+          <identificacao />
+          <endereco />
+          <vinculo>
+            <dataContratacao>2016-06-01</dataContratacao>
+            <numeroPlanoANS>462163108</numeroPlanoANS>
+          </vinculo>
+        </retificacao>
+        <retificacao>
+          <cco>030776154502</cco>
+          <identificacao />
+          <endereco />
+          <vinculo>
+            <dataContratacao>2016-06-01</dataContratacao>
+            <numeroPlanoANS>462163108</numeroPlanoANS>
+          </vinculo>
+        </retificacao>
+        <retificacao>
+          <cco>037526057802</cco>
+          <identificacao />
+          <endereco />
+          <vinculo>
+            <dataContratacao>2014-11-01</dataContratacao>
+            <numeroPlanoANS>462163108</numeroPlanoANS>
+          </vinculo>
+        </retificacao>
+        <retificacao>
+          <cco>034302157300</cco>
+          <identificacao />
+          <endereco />
+          <vinculo>
+            <dataContratacao>2016-08-01</dataContratacao>
+            <numeroPlanoANS>462163108</numeroPlanoANS>
+          </vinculo>
+        </retificacao>
+        <retificacao>
+          <cco>030776148603</cco>
+          <identificacao />
+          <endereco />
+          <vinculo>
+            <dataContratacao>2016-01-02</dataContratacao>
+            <numeroPlanoANS>462163108</numeroPlanoANS>
+          </vinculo>
+        </retificacao>
+        <retificacao>
+          <cco>030776166503</cco>
+          <identificacao />
+          <endereco />
+          <vinculo>
+            <dataContratacao>2016-07-01</dataContratacao>
+            <numeroPlanoANS>462163108</numeroPlanoANS>
+          </vinculo>
+        </retificacao>
+        <retificacao>
+          <cco>030776166700</cco>
+          <identificacao />
+          <endereco />
+          <vinculo>
+            <dataContratacao>2014-05-01</dataContratacao>
+            <numeroPlanoANS>462163108</numeroPlanoANS>
+          </vinculo>
+        </retificacao>
+      </beneficiarios>
+    </operadoraParaANS>
+  </mensagem>
+  <epilogo>
+    <hash>67603ED83FA6E0867C01BC601CA9546D</hash>
+  </epilogo>
+</mensagemSIB>

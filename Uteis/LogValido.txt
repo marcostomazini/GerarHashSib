@@ -1,0 +1,9 @@
+INFORMAÇÕES: Processo de validação iniciado para D:\Projetos\GerarHashSib\GerarHashSib\GerarHashSib\bin\Debug\00058220170101121212.sbx
+jan 31, 2017 8:07:58 PM br.gov.ans.sibxml.validador.xml.ValidadorXMLSibClienteImpl validaXsd
+INFORMAÇÕES: XSD VALIDO: D:\Projetos\GerarHashSib\GerarHashSib\GerarHashSib\bin\Debug\00058220170101121212.sbx
+jan 31, 2017 8:07:58 PM br.gov.ans.sibxml.validador.xml.ValidadorXMLSibClienteImpl validaArquivoXml
+GRAVE: ERRO: HASH DO CONTEUDO DA MENSAGEM ESTA INCORRETO
+jan 31, 2017 8:08:15 PM br.gov.ans.sibxml.validador.xml.ValidadorXMLSibClienteImpl validaArquivoXml
+INFORMAÇÕES: Processo de validação iniciado para D:\Projetos\GerarHashSib\GerarHashSib\GerarHashSib\bin\Debug\out\00058220170101121212.sbx
+jan 31, 2017 9:20:35 PM br.gov.ans.sibxml.validador.xml.ValidadorXMLSibClienteImpl validaXsd
+INFORMAÇÕES: XSD VALIDO: D:\Projetos\GerarHashSib\GerarHashSib\GerarHashSib\bin\Debug\out\00058220170101121212.sbx
